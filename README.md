@@ -1,2 +1,2 @@
 # Tech-Era
-A start a new project with GitHub
+A start of a new project with GitHub
